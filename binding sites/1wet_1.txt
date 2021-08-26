@@ -1,0 +1,23 @@
+GUN_1_site
+     1 THR67       1 RESIDUE           4 A     THR     0 **** THR A  67
+     2 SER68      15 RESIDUE           4 A     SER     0 **** SER A  68
+     3 ALA71      26 RESIDUE           4 A     ALA     0 **** ALA A  71
+     4 ALA72      36 RESIDUE           4 A     ALA     0 **** ALA A  72
+     5 TYR73      46 RESIDUE           4 A     TYR     0 **** TYR A  73
+     6 PHE74      67 RESIDUE           4 A     PHE     0 **** PHE A  74
+     7 SER124     87 RESIDUE           4 A     SER     0 **** SER A 124
+     8 PRO187     98 RESIDUE           4 A     PRO     0 **** PRO A 187
+     9 ARG190    112 RESIDUE           4 A     ARG     0 **** ARG A 190
+    10 THR192    136 RESIDUE           4 A     THR     0 **** THR A 192
+    11 GLY193    150 RESIDUE           4 A     GLY     0 **** GLY A 193
+    12 ARG196    157 RESIDUE           4 A     ARG     0 **** ARG A 196
+    13 ASP220    181 RESIDUE           4 A     ASP     0 **** ASP A 220
+    14 PHE221    193 RESIDUE           4 A     PHE     0 **** PHE A 221
+    15 GLU222    213 RESIDUE           4 A     GLU     0 **** GLU A 222
+    16 GLY246    228 RESIDUE           4 A     GLY     0 **** GLY A 246
+    17 GLY247    235 RESIDUE           4 A     GLY     0 **** GLY A 247
+    18 ASP248    242 RESIDUE           4 A     ASP     0 **** ASP A 248
+    19 ILE249    254 RESIDUE           4 A     ILE     0 **** ILE A 249
+    20 TYR274    273 RESIDUE           4 A     TYR     0 **** TYR A 274
+    21 ASP275    294 RESIDUE           4 A     ASP     0 **** ASP A 275
+    22 GLN292    306 RESIDUE           4 A     GLN     0 **** GLN A 292

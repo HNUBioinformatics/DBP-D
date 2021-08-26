@@ -1,0 +1,27 @@
+TMP_1_site
+     1 LEU112      1 RESIDUE           4 A     LEU     0 **** LEU A 112
+     2 ASP113     20 RESIDUE           4 A     ASP     0 **** ASP A 113
+     3 ARG114     32 RESIDUE           4 A     ARG     0 **** ARG A 114
+     4 GLU115     56 RESIDUE           4 A     GLU     0 **** GLU A 115
+     5 GLY116     71 RESIDUE           4 A     GLY     0 **** GLY A 116
+     6 ASN158     78 RESIDUE           4 A     ASN     0 **** ASN A 158
+     7 ARG161     92 RESIDUE           4 A     ARG     0 **** ARG A 161
+     8 ALA164    116 RESIDUE           4 A     ALA     0 **** ALA A 164
+     9 GLN165    126 RESIDUE           4 A     GLN     0 **** GLN A 165
+    10 ARG168    143 RESIDUE           4 A     ARG     0 **** ARG A 168
+    11 TYR319    167 RESIDUE           4 A     TYR     0 **** TYR A 319
+    12 ARG321    188 RESIDUE           4 A     ARG     0 **** ARG A 321
+    13 THR322    212 RESIDUE           4 A     THR     0 **** THR A 322
+    14 ASP323    226 RESIDUE           4 A     ASP     0 **** ASP A 323
+    15 GLN362    238 RESIDUE           4 A     GLN     0 **** GLN A 362
+    16 HIS365    255 RESIDUE           4 A     HIS     0 **** HIS A 365
+    17 ARG493    272 RESIDUE           4 A     ARG     0 **** ARG A 493
+    18 PRO494    296 RESIDUE           4 A     PRO     0 **** PRO A 494
+    19 SER495    310 RESIDUE           4 A     SER     0 **** SER A 495
+    20 THR496    321 RESIDUE           4 A     THR     0 **** THR A 496
+    21 GLU547    335 RESIDUE           4 A     GLU     0 **** GLU A 547
+    22 LEU550    350 RESIDUE           4 A     LEU     0 **** LEU A 550
+    23 ASP551    369 RESIDUE           4 A     ASP     0 **** ASP A 551
+    24 ALA554    381 RESIDUE           4 A     ALA     0 **** ALA A 554
+    25 ASN555    391 RESIDUE           4 A     ASN     0 **** ASN A 555
+    26 HOH714    405 RESIDUE           4 A     HOH     0 **** HOH A 714

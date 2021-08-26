@@ -1,0 +1,19 @@
+HPA_1_site
+     1 ALA71       1 RESIDUE           4 A     ALA     0 **** ALA A  71
+     2 TYR73      11 RESIDUE           4 A     TYR     0 **** TYR A  73
+     3 PHE74      32 RESIDUE           4 A     PHE     0 **** PHE A  74
+     4 SER124     52 RESIDUE           4 A     SER     0 **** SER A 124
+     5 ASP146     63 RESIDUE           4 A     ASP     0 **** ASP A 146
+     6 PRO187     75 RESIDUE           4 A     PRO     0 **** PRO A 187
+     7 ARG190     89 RESIDUE           4 A     ARG     0 **** ARG A 190
+     8 ASN191    113 RESIDUE           4 A     ASN     0 **** ASN A 191
+     9 THR192    127 RESIDUE           4 A     THR     0 **** THR A 192
+    10 GLY193    141 RESIDUE           4 A     GLY     0 **** GLY A 193
+    11 ARG196    148 RESIDUE           4 A     ARG     0 **** ARG A 196
+    12 ASP220    172 RESIDUE           4 A     ASP     0 **** ASP A 220
+    13 PHE221    184 RESIDUE           4 A     PHE     0 **** PHE A 221
+    14 GLY246    204 RESIDUE           4 A     GLY     0 **** GLY A 246
+    15 GLY247    211 RESIDUE           4 A     GLY     0 **** GLY A 247
+    16 TYR274    218 RESIDUE           4 A     TYR     0 **** TYR A 274
+    17 ASP275    239 RESIDUE           4 A     ASP     0 **** ASP A 275
+    18 GLN292    251 RESIDUE           4 A     GLN     0 **** GLN A 292

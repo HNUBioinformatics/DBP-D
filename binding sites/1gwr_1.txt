@@ -1,0 +1,31 @@
+EST_1_site
+     1 MET343      1 RESIDUE           4 A     MET     0 **** MET A 343
+     2 LEU345     18 RESIDUE           4 A     LEU     0 **** LEU A 345
+     3 LEU346     37 RESIDUE           4 A     LEU     0 **** LEU A 346
+     4 THR347     56 RESIDUE           4 A     THR     0 **** THR A 347
+     5 LEU349     70 RESIDUE           4 A     LEU     0 **** LEU A 349
+     6 ALA350     89 RESIDUE           4 A     ALA     0 **** ALA A 350
+     7 ASP351     99 RESIDUE           4 A     ASP     0 **** ASP A 351
+     8 GLU353    111 RESIDUE           4 A     GLU     0 **** GLU A 353
+     9 TRP383    126 RESIDUE           4 A     TRP     0 **** TRP A 383
+    10 LEU384    150 RESIDUE           4 A     LEU     0 **** LEU A 384
+    11 LEU387    169 RESIDUE           4 A     LEU     0 **** LEU A 387
+    12 MET388    188 RESIDUE           4 A     MET     0 **** MET A 388
+    13 GLY390    205 RESIDUE           4 A     GLY     0 **** GLY A 390
+    14 LEU391    212 RESIDUE           4 A     LEU     0 **** LEU A 391
+    15 ARG394    231 RESIDUE           4 A     ARG     0 **** ARG A 394
+    16 LEU403    255 RESIDUE           4 A     LEU     0 **** LEU A 403
+    17 PHE404    274 RESIDUE           4 A     PHE     0 **** PHE A 404
+    18 MET421    294 RESIDUE           4 A     MET     0 **** MET A 421
+    19 ILE424    311 RESIDUE           4 A     ILE     0 **** ILE A 424
+    20 LEU428    330 RESIDUE           4 A     LEU     0 **** LEU A 428
+    21 MET517    349 RESIDUE           4 A     MET     0 **** MET A 517
+    22 LYS520    366 RESIDUE           4 A     LYS     0 **** LYS A 520
+    23 GLY521    388 RESIDUE           4 A     GLY     0 **** GLY A 521
+    24 MET522    395 RESIDUE           4 A     MET     0 **** MET A 522
+    25 HIS524    412 RESIDUE           4 A     HIS     0 **** HIS A 524
+    26 LEU525    429 RESIDUE           4 A     LEU     0 **** LEU A 525
+    27 TYR526    448 RESIDUE           4 A     TYR     0 **** TYR A 526
+    28 MET528    469 RESIDUE           4 A     MET     0 **** MET A 528
+    29 LEU540    486 RESIDUE           4 A     LEU     0 **** LEU A 540
+    30 HOH2026   505 RESIDUE           4 A     HOH     0 **** HOH A2026

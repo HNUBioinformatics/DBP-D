@@ -1,0 +1,34 @@
+ADP_1_site
+     1 GLY583      1 RESIDUE           4 A     GLY     0 **** GLY A 583
+     2 HIS585      8 RESIDUE           4 A     HIS     0 **** HIS A 585
+     3 VAL588     25 RESIDUE           4 A     VAL     0 **** VAL A 588
+     4 VAL591     41 RESIDUE           4 A     VAL     0 **** VAL A 591
+     5 LEU592     57 RESIDUE           4 A     LEU     0 **** LEU A 592
+     6 GLU594     76 RESIDUE           4 A     GLU     0 **** GLU A 594
+     7 PRO595     91 RESIDUE           4 A     PRO     0 **** PRO A 595
+     8 PHE596    105 RESIDUE           4 A     PHE     0 **** PHE A 596
+     9 ILE597    125 RESIDUE           4 A     ILE     0 **** ILE A 597
+    10 ALA598    144 RESIDUE           4 A     ALA     0 **** ALA A 598
+    11 ASN599    154 RESIDUE           4 A     ASN     0 **** ASN A 599
+    12 GLY614    168 RESIDUE           4 A     GLY     0 **** GLY A 614
+    13 PRO615    175 RESIDUE           4 A     PRO     0 **** PRO A 615
+    14 ASN616    189 RESIDUE           4 A     ASN     0 **** ASN A 616
+    15 MET617    203 RESIDUE           4 A     MET     0 **** MET A 617
+    16 GLY618    220 RESIDUE           4 A     GLY     0 **** GLY A 618
+    17 GLY619    227 RESIDUE           4 A     GLY     0 **** GLY A 619
+    18 LYS620    234 RESIDUE           4 A     LYS     0 **** LYS A 620
+    19 SER621    256 RESIDUE           4 A     SER     0 **** SER A 621
+    20 THR622    267 RESIDUE           4 A     THR     0 **** THR A 622
+    21 TYR623    281 RESIDUE           4 A     TYR     0 **** TYR A 623
+    22 ARG625    302 RESIDUE           4 A     ARG     0 **** ARG A 625
+    23 GLN626    326 RESIDUE           4 A     GLN     0 **** GLN A 626
+    24 ASP693    343 RESIDUE           4 A     ASP     0 **** ASP A 693
+    25 GLU694    355 RESIDUE           4 A     GLU     0 **** GLU A 694
+    26 LEU747    370 RESIDUE           4 A     LEU     0 **** LEU A 747
+    27 PHE758    389 RESIDUE           4 A     PHE     0 **** PHE A 758
+    28 MET759    409 RESIDUE           4 A     MET     0 **** MET A 759
+    29 HIS760    426 RESIDUE           4 A     HIS     0 **** HIS A 760
+    30 SER761    443 RESIDUE           4 A     SER     0 **** SER A 761
+    31 THR669    454 RESIDUE           4 B     THR     0 **** THR B 669
+    32 MG1802    468 GROUP             4 A      MG     0 ****  MG A1802
+    33 HOH2115   469 RESIDUE           4 A     HOH     0 **** HOH A2115

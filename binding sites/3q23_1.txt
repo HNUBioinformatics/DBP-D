@@ -1,0 +1,31 @@
+G2P_1_site
+     1 ARG424      1 RESIDUE           4 A     ARG     0 **** ARG A 424
+     2 HIS476     25 RESIDUE           4 A     HIS     0 **** HIS A 476
+     3 ASP559     42 RESIDUE           4 A     ASP     0 **** ASP A 559
+     4 GLY560     54 RESIDUE           4 A     GLY     0 **** GLY A 560
+     5 VAL561     61 RESIDUE           4 A     VAL     0 **** VAL A 561
+     6 THR562     77 RESIDUE           4 A     THR     0 **** THR A 562
+     7 ASN563     91 RESIDUE           4 A     ASN     0 **** ASN A 563
+     8 GLY564    105 RESIDUE           4 A     GLY     0 **** GLY A 564
+     9 PRO565    112 RESIDUE           4 A     PRO     0 **** PRO A 565
+    10 ASP610    126 RESIDUE           4 A     ASP     0 **** ASP A 610
+    11 TYR612    138 RESIDUE           4 A     TYR     0 **** TYR A 612
+    12 ARG666    159 RESIDUE           4 A     ARG     0 **** ARG A 666
+    13 LYS670    183 RESIDUE           4 A     LYS     0 **** LYS A 670
+    14 ASN671    205 RESIDUE           4 A     ASN     0 **** ASN A 671
+    15 THR674    219 RESIDUE           4 A     THR     0 **** THR A 674
+    16 ILE675    233 RESIDUE           4 A     ILE     0 **** ILE A 675
+    17 TYR678    252 RESIDUE           4 A     TYR     0 **** TYR A 678
+    18 LYS688    273 RESIDUE           4 A     LYS     0 **** LYS A 688
+    19 PRO921    295 RESIDUE           4 A     PRO     0 **** PRO A 921
+    20 THR924    309 RESIDUE           4 A     THR     0 **** THR A 924
+    21 ILE925    323 RESIDUE           4 A     ILE     0 **** ILE A 925
+    22 ASP929    342 RESIDUE           4 A     ASP     0 **** ASP A 929
+    23 PHE950    354 RESIDUE           4 A     PHE     0 **** PHE A 950
+    24 ASP951    374 RESIDUE           4 A     ASP     0 **** ASP A 951
+    25 GLY952    386 RESIDUE           4 A     GLY     0 **** GLY A 952
+    26 GLN1059   393 RESIDUE           4 A     GLN     0 **** GLN A1059
+    27 G2P1111   410 GROUP             4 A     G2P     0 **** G2P A1111
+    28 MN1107    456 GROUP             4 A      MN     0 ****  MN A1107
+    29 MN1109    457 GROUP             4 A      MN     0 ****  MN A1109
+    30 HOH1128   458 RESIDUE           4 A     HOH     0 **** HOH A1128

@@ -1,0 +1,32 @@
+SAH_2_site
+     1 ARG1101     1 RESIDUE           4 A     ARG     0 **** ARG A1101
+     2 THR1102    25 RESIDUE           4 A     THR     0 **** THR A1102
+     3 ASP1104    39 RESIDUE           4 A     ASP     0 **** ASP A1104
+     4 MET1105    51 RESIDUE           4 A     MET     0 **** MET A1105
+     5 GLY1106    68 RESIDUE           4 A     GLY     0 **** GLY A1106
+     6 TRP1107    75 RESIDUE           4 A     TRP     0 **** TRP A1107
+     7 GLY1108    99 RESIDUE           4 A     GLY     0 **** GLY A1108
+     8 SER1141   106 RESIDUE           4 A     SER     0 **** SER A1141
+     9 TYR1142   117 RESIDUE           4 A     TYR     0 **** TYR A1142
+    10 SER1165   138 RESIDUE           4 A     SER     0 **** SER A1165
+    11 ARG1166   149 RESIDUE           4 A     ARG     0 **** ARG A1166
+    12 PHE1167   173 RESIDUE           4 A     PHE     0 **** PHE A1167
+    13 ILE1168   193 RESIDUE           4 A     ILE     0 **** ILE A1168
+    14 ASN1169   212 RESIDUE           4 A     ASN     0 **** ASN A1169
+    15 HIS1170   226 RESIDUE           4 A     HIS     0 **** HIS A1170
+    16 HIS1171   243 RESIDUE           4 A     HIS     0 **** HIS A1171
+    17 CYS1172   260 RESIDUE           4 A     CYS     0 **** CYS A1172
+    18 TYR1211   270 RESIDUE           4 A     TYR     0 **** TYR A1211
+    19 PHE1215   291 RESIDUE           4 A     PHE     0 **** PHE A1215
+    20 TRP1216   311 RESIDUE           4 A     TRP     0 **** TRP A1216
+    21 LYS1219   335 RESIDUE           4 A     LYS     0 **** LYS A1219
+    22 PHE1223   357 RESIDUE           4 A     PHE     0 **** PHE A1223
+    23 SER1224   377 RESIDUE           4 A     SER     0 **** SER A1224
+    24 CYS1225   388 RESIDUE           4 A     CYS     0 **** CYS A1225
+    25 ARG1226   398 RESIDUE           4 A     ARG     0 **** ARG A1226
+    26 CYS1227   422 RESIDUE           4 A     CYS     0 **** CYS A1227
+    27 GLY1228   432 RESIDUE           4 A     GLY     0 **** GLY A1228
+    28 MLY7      439 GROUP             4 P     MLY     0 **** MLY P   7
+    29 ZN504     467 GROUP             4 A      ZN     0 ****  ZN A 504
+    30 HOH1356   468 RESIDUE           4 A     HOH     0 **** HOH A1356
+    31 HOH1400   471 RESIDUE           4 A     HOH     0 **** HOH A1400

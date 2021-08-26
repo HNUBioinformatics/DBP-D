@@ -1,0 +1,27 @@
+CHD_1_site
+     1 LEU65       1 RESIDUE           4 A     LEU     0 **** LEU A  65
+     2 ILE68      20 RESIDUE           4 A     ILE     0 **** ILE A  68
+     3 CYS69      39 RESIDUE           4 A     CYS     0 **** CYS A  69
+     4 HIS72      50 RESIDUE           4 A     HIS     0 **** HIS A  72
+     5 PHE95      67 RESIDUE           4 A     PHE     0 **** PHE A  95
+     6 PHE99      87 RESIDUE           4 A     PHE     0 **** PHE A  99
+     7 ILE102    107 RESIDUE           4 A     ILE     0 **** ILE A 102
+     8 PHE103    126 RESIDUE           4 A     PHE     0 **** PHE A 103
+     9 ALA108    146 RESIDUE           4 A     ALA     0 **** ALA A 108
+    10 PHE111    156 RESIDUE           4 A     PHE     0 **** PHE A 111
+    11 ILE115    176 RESIDUE           4 A     ILE     0 **** ILE A 115
+    12 TYR116    195 RESIDUE           4 A     TYR     0 **** TYR A 116
+    13 LEU126    216 RESIDUE           4 A     LEU     0 **** LEU A 126
+    14 TRP129    235 RESIDUE           4 A     TRP     0 **** TRP A 129
+    15 ILE130    259 RESIDUE           4 A     ILE     0 **** ILE A 130
+    16 PHE137    278 RESIDUE           4 A     PHE     0 **** PHE A 137
+    17 SER138    298 RESIDUE           4 A     SER     0 **** SER A 138
+    18 TYR139    309 RESIDUE           4 A     TYR     0 **** TYR A 139
+    19 ASN140    330 RESIDUE           4 A     ASN     0 **** ASN A 140
+    20 ALA162    344 RESIDUE           4 A     ALA     0 **** ALA A 162
+    21 VAL163    354 RESIDUE           4 A     VAL     0 **** VAL A 163
+    22 CYS166    370 RESIDUE           4 A     CYS     0 **** CYS A 166
+    23 THR167    381 RESIDUE           4 A     THR     0 **** THR A 167
+    24 LYS170    395 RESIDUE           4 A     LYS     0 **** LYS A 170
+    25 GLU171    417 RESIDUE           4 A     GLU     0 **** GLU A 171
+    26 HIS174    432 RESIDUE           4 A     HIS     0 **** HIS A 174

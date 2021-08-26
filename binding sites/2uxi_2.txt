@@ -1,0 +1,27 @@
+G50_2_site
+     1 HIS114      1 RESIDUE           4 A     HIS     0 **** HIS A 114
+     2 HIS115     18 RESIDUE           4 A     HIS     0 **** HIS A 115
+     3 GLY173     35 RESIDUE           4 A     GLY     0 **** GLY A 173
+     4 ARG176     42 RESIDUE           4 A     ARG     0 **** ARG A 176
+     5 ARG177     66 RESIDUE           4 A     ARG     0 **** ARG A 177
+     6 LEU180     90 RESIDUE           4 A     LEU     0 **** LEU A 180
+     7 LEU63     109 RESIDUE           4 B     LEU     0 **** LEU B  63
+     8 LEU66     118 RESIDUE           4 B     LEU     0 **** LEU B  66
+     9 HIS67     137 RESIDUE           4 B     HIS     0 **** HIS B  67
+    10 HIS70     154 RESIDUE           4 B     HIS     0 **** HIS B  70
+    11 VAL96     171 RESIDUE           4 B     VAL     0 **** VAL B  96
+    12 GLU99     187 RESIDUE           4 B     GLU     0 **** GLU B  99
+    13 ILE109    202 RESIDUE           4 B     ILE     0 **** ILE B 109
+    14 ASN110    221 RESIDUE           4 B     ASN     0 **** ASN B 110
+    15 LEU113    235 RESIDUE           4 B     LEU     0 **** LEU B 113
+    16 HIS114    254 RESIDUE           4 B     HIS     0 **** HIS B 114
+    17 PHE119    271 RESIDUE           4 B     PHE     0 **** PHE B 119
+    18 ARG130    291 RESIDUE           4 B     ARG     0 **** ARG B 130
+    19 ALA133    315 RESIDUE           4 B     ALA     0 **** ALA B 133
+    20 VAL134    325 RESIDUE           4 B     VAL     0 **** VAL B 134
+    21 CYS137    341 RESIDUE           4 B     CYS     0 **** CYS B 137
+    22 PHE168    352 RESIDUE           4 B     PHE     0 **** PHE B 168
+    23 ASP172    372 RESIDUE           4 B     ASP     0 **** ASP B 172
+    24 ILE175    384 RESIDUE           4 B     ILE     0 **** ILE B 175
+    25 ARG176    403 RESIDUE           4 B     ARG     0 **** ARG B 176
+    26 G501212   427 GROUP             4 B     G50     0 **** G50 B1212

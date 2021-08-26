@@ -1,0 +1,43 @@
+ADP_3_site
+     1 VAL14       1 RESIDUE           4 C     VAL     0 **** VAL C  14
+     2 PHE15      17 RESIDUE           4 C     PHE     0 **** PHE C  15
+     3 ASP16      37 RESIDUE           4 C     ASP     0 **** ASP C  16
+     4 GLU17      49 RESIDUE           4 C     GLU     0 **** GLU C  17
+     5 ASN18      64 RESIDUE           4 C     ASN     0 **** ASN C  18
+     6 TYR19      78 RESIDUE           4 C     TYR     0 **** TYR C  19
+     7 ILE20      99 RESIDUE           4 C     ILE     0 **** ILE C  20
+     8 PRO21     118 RESIDUE           4 C     PRO     0 **** PRO C  21
+     9 GLU23     132 RESIDUE           4 C     GLU     0 **** GLU C  23
+    10 LEU24     147 RESIDUE           4 C     LEU     0 **** LEU C  24
+    11 ARG25     166 RESIDUE           4 C     ARG     0 **** ARG C  25
+    12 VAL26     190 RESIDUE           4 C     VAL     0 **** VAL C  26
+    13 ARG27     206 RESIDUE           4 C     ARG     0 **** ARG C  27
+    14 ARG28     230 RESIDUE           4 C     ARG     0 **** ARG C  28
+    15 GLY56     254 RESIDUE           4 C     GLY     0 **** GLY C  56
+    16 ARG60     261 RESIDUE           4 C     ARG     0 **** ARG C  60
+    17 VAL61     285 RESIDUE           4 C     VAL     0 **** VAL C  61
+    18 GLY62     301 RESIDUE           4 C     GLY     0 **** GLY C  62
+    19 ILE63     308 RESIDUE           4 C     ILE     0 **** ILE C  63
+    20 GLY64     327 RESIDUE           4 C     GLY     0 **** GLY C  64
+    21 LYS65     334 RESIDUE           4 C     LYS     0 **** LYS C  65
+    22 THR66     356 RESIDUE           4 C     THR     0 **** THR C  66
+    23 THR67     370 RESIDUE           4 C     THR     0 **** THR C  67
+    24 LEU68     384 RESIDUE           4 C     LEU     0 **** LEU C  68
+    25 ASP145    403 RESIDUE           4 C     ASP     0 **** ASP C 145
+    26 GLU146    415 RESIDUE           4 C     GLU     0 **** GLU C 146
+    27 VAL185    430 RESIDUE           4 C     VAL     0 **** VAL C 185
+    28 TYR215    446 RESIDUE           4 C     TYR     0 **** TYR C 215
+    29 THR222    467 RESIDUE           4 C     THR     0 **** THR C 222
+    30 ILE223    481 RESIDUE           4 C     ILE     0 **** ILE C 223
+    31 GLN226    500 RESIDUE           4 C     GLN     0 **** GLN C 226
+    32 ARG227    517 RESIDUE           4 C     ARG     0 **** ARG C 227
+    33 SER258    541 RESIDUE           4 C     SER     0 **** SER C 258
+    34 ALA259    552 RESIDUE           4 C     ALA     0 **** ALA C 259
+    35 ARG260    562 RESIDUE           4 C     ARG     0 **** ARG C 260
+    36 ARG261    586 RESIDUE           4 C     ARG     0 **** ARG C 261
+    37 ILE263    610 RESIDUE           4 C     ILE     0 **** ILE C 263
+    38 ASP393    629 RESIDUE           4 C     ASP     0 **** ASP C 393
+    39 MG701     641 GROUP             4 C      MG     0 ****  MG C 701
+    40 HOH2008   642 RESIDUE           4 C     HOH     0 **** HOH C2008
+    41 HOH2029   645 RESIDUE           4 C     HOH     0 **** HOH C2029
+    42 HOH2047   648 RESIDUE           4 C     HOH     0 **** HOH C2047

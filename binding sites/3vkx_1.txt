@@ -1,0 +1,23 @@
+T3_1_site
+     1 GLN38       1 RESIDUE           4 A     GLN     0 **** GLN A  38
+     2 MET40      18 RESIDUE           4 A     MET     0 **** MET A  40
+     3 HIS44      35 RESIDUE           4 A     HIS     0 **** HIS A  44
+     4 VAL45      52 RESIDUE           4 A     VAL     0 **** VAL A  45
+     5 SER46      68 RESIDUE           4 A     SER     0 **** SER A  46
+     6 LEU47      79 RESIDUE           4 A     LEU     0 **** LEU A  47
+     7 LEU126     98 RESIDUE           4 A     LEU     0 **** LEU A 126
+     8 GLY127    117 RESIDUE           4 A     GLY     0 **** GLY A 127
+     9 ILE128    124 RESIDUE           4 A     ILE     0 **** ILE A 128
+    10 PRO129    143 RESIDUE           4 A     PRO     0 **** PRO A 129
+    11 GLU130    157 RESIDUE           4 A     GLU     0 **** GLU A 130
+    12 GLN131    172 RESIDUE           4 A     GLN     0 **** GLN A 131
+    13 TYR133    189 RESIDUE           4 A     TYR     0 **** TYR A 133
+    14 ASP232    210 RESIDUE           4 A     ASP     0 **** ASP A 232
+    15 VAL233    222 RESIDUE           4 A     VAL     0 **** VAL A 233
+    16 PRO234    238 RESIDUE           4 A     PRO     0 **** PRO A 234
+    17 LEU235    252 RESIDUE           4 A     LEU     0 **** LEU A 235
+    18 VAL236    271 RESIDUE           4 A     VAL     0 **** VAL A 236
+    19 TYR250    287 RESIDUE           4 A     TYR     0 **** TYR A 250
+    20 LEU251    308 RESIDUE           4 A     LEU     0 **** LEU A 251
+    21 ALA252    327 RESIDUE           4 A     ALA     0 **** ALA A 252
+    22 CL268     337 GROUP             4 A      CL     0 ****  CL A 268

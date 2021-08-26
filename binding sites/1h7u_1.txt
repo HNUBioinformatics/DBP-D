@@ -1,0 +1,34 @@
+AGS_1_site
+     1 VAL31       1 RESIDUE           4 A     VAL     0 **** VAL A  31
+     2 GLU41      17 RESIDUE           4 A     GLU     0 **** GLU A  41
+     3 LEU42      32 RESIDUE           4 A     LEU     0 **** LEU A  42
+     4 GLU44      51 RESIDUE           4 A     GLU     0 **** GLU A  44
+     5 ASN45      66 RESIDUE           4 A     ASN     0 **** ASN A  45
+     6 SER46      80 RESIDUE           4 A     SER     0 **** SER A  46
+     7 LEU47      91 RESIDUE           4 A     LEU     0 **** LEU A  47
+     8 ASP48     110 RESIDUE           4 A     ASP     0 **** ASP A  48
+     9 ALA49     122 RESIDUE           4 A     ALA     0 **** ALA A  49
+    10 VAL68     132 RESIDUE           4 A     VAL     0 **** VAL A  68
+    11 ASP70     148 RESIDUE           4 A     ASP     0 **** ASP A  70
+    12 GLY72     160 RESIDUE           4 A     GLY     0 **** GLY A  72
+    13 CYS73     167 RESIDUE           4 A     CYS     0 **** CYS A  73
+    14 GLY74     178 RESIDUE           4 A     GLY     0 **** GLY A  74
+    15 VAL75     185 RESIDUE           4 A     VAL     0 **** VAL A  75
+    16 ASN79     201 RESIDUE           4 A     ASN     0 **** ASN A  79
+    17 GLY82     215 RESIDUE           4 A     GLY     0 **** GLY A  82
+    18 LEU83     222 RESIDUE           4 A     LEU     0 **** LEU A  83
+    19 THR84     241 RESIDUE           4 A     THR     0 **** THR A  84
+    20 LEU85     255 RESIDUE           4 A     LEU     0 **** LEU A  85
+    21 LYS86     274 RESIDUE           4 A     LYS     0 **** LYS A  86
+    22 GLY108    296 RESIDUE           4 A     GLY     0 **** GLY A 108
+    23 GLU109    303 RESIDUE           4 A     GLU     0 **** GLU A 109
+    24 ALA110    318 RESIDUE           4 A     ALA     0 **** ALA A 110
+    25 LEU111    328 RESIDUE           4 A     LEU     0 **** LEU A 111
+    26 SER112    347 RESIDUE           4 A     SER     0 **** SER A 112
+    27 THR124    358 RESIDUE           4 A     THR     0 **** THR A 124
+    28 GLY154    372 RESIDUE           4 A     GLY     0 **** GLY A 154
+    29 THR155    379 RESIDUE           4 A     THR     0 **** THR A 155
+    30 THR156    393 RESIDUE           4 A     THR     0 **** THR A 156
+    31 VAL157    407 RESIDUE           4 A     VAL     0 **** VAL A 157
+    32 MG1365    423 GROUP             4 A      MG     0 ****  MG A1365
+    33 HOH2008   424 RESIDUE           4 A     HOH     0 **** HOH A2008

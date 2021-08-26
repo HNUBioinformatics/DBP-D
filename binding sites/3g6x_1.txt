@@ -1,0 +1,26 @@
+DGT_1_site
+     1 ASP34       1 RESIDUE           4 A     ASP     0 **** ASP A  34
+     2 LEU35      13 RESIDUE           4 A     LEU     0 **** LEU A  35
+     3 ASP36      32 RESIDUE           4 A     ASP     0 **** ASP A  36
+     4 CYS37      44 RESIDUE           4 A     CYS     0 **** CYS A  37
+     5 PHE38      55 RESIDUE           4 A     PHE     0 **** PHE A  38
+     6 TYR39      75 RESIDUE           4 A     TYR     0 **** TYR A  39
+     7 ALA40      96 RESIDUE           4 A     ALA     0 **** ALA A  40
+     8 GLN59     106 RESIDUE           4 A     GLN     0 **** GLN A  59
+     9 LEU62     123 RESIDUE           4 A     LEU     0 **** LEU A  62
+    10 VAL64     142 RESIDUE           4 A     VAL     0 **** VAL A  64
+    11 THR65     158 RESIDUE           4 A     THR     0 **** THR A  65
+    12 CYS66     172 RESIDUE           4 A     CYS     0 **** CYS A  66
+    13 TYR68     183 RESIDUE           4 A     TYR     0 **** TYR A  68
+    14 ARG71     204 RESIDUE           4 A     ARG     0 **** ARG A  71
+    15 LYS77     228 RESIDUE           4 A     LYS     0 **** LYS A  77
+    16 LEU78     250 RESIDUE           4 A     LEU     0 **** LEU A  78
+    17 GLY124    269 RESIDUE           4 A     GLY     0 **** GLY A 124
+    18 PHE125    276 RESIDUE           4 A     PHE     0 **** PHE A 125
+    19 ASP126    296 RESIDUE           4 A     ASP     0 **** ASP A 126
+    20 GLU127    308 RESIDUE           4 A     GLU     0 **** GLU A 127
+    21 LYS214    323 RESIDUE           4 A     LYS     0 **** LYS A 214
+    22 PRO215    345 RESIDUE           4 A     PRO     0 **** PRO A 215
+    23 MG871     359 GROUP             4 A      MG     0 ****  MG A 871
+    24 MG872     360 GROUP             4 A      MG     0 ****  MG A 872
+    25 HOH422    361 RESIDUE           4 A     HOH     0 **** HOH A 422

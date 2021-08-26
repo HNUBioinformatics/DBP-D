@@ -1,0 +1,22 @@
+ALA_ASP_LEU_PRO_PHE_1_site
+     1 ASN552      1 RESIDUE           4 A     ASN     0 **** ASN A 552
+     2 PRO553     15 RESIDUE           4 A     PRO     0 **** PRO A 553
+     3 ARG554     29 RESIDUE           4 A     ARG     0 **** ARG A 554
+     4 GLU555     53 RESIDUE           4 A     GLU     0 **** GLU A 555
+     5 MET557     68 RESIDUE           4 A     MET     0 **** MET A 557
+     6 GLY571     85 RESIDUE           4 A     GLY     0 **** GLY A 571
+     7 VAL572     92 RESIDUE           4 A     VAL     0 **** VAL A 572
+     8 ALA573    108 RESIDUE           4 A     ALA     0 **** ALA A 573
+     9 THR574    118 RESIDUE           4 A     THR     0 **** THR A 574
+    10 TYR575    132 RESIDUE           4 A     TYR     0 **** TYR A 575
+    11 LEU576    153 RESIDUE           4 A     LEU     0 **** LEU A 576
+    12 TYR600    172 RESIDUE           4 A     TYR     0 **** TYR A 600
+    13 ALA625    193 RESIDUE           4 A     ALA     0 **** ALA A 625
+    14 LEU626    203 RESIDUE           4 A     LEU     0 **** LEU A 626
+    15 GLY627    222 RESIDUE           4 A     GLY     0 **** GLY A 627
+    16 PRO628    229 RESIDUE           4 A     PRO     0 **** PRO A 628
+    17 LYS629    243 RESIDUE           4 A     LYS     0 **** LYS A 629
+    18 THR630    265 RESIDUE           4 A     THR     0 **** THR A 630
+    19 LEU631    279 RESIDUE           4 A     LEU     0 **** LEU A 631
+    20 GLU633    298 RESIDUE           4 A     GLU     0 **** GLU A 633
+    21 HOH944    313 RESIDUE           4 A     HOH     0 **** HOH A 944

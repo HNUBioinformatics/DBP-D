@@ -1,0 +1,26 @@
+GJW_1_site
+     1 GLU102      1 RESIDUE           4 A     GLU     0 **** GLU A 102
+     2 ASP105     16 RESIDUE           4 A     ASP     0 **** ASP A 105
+     3 ASN106     28 RESIDUE           4 A     ASN     0 **** ASN A 106
+     4 ASP109     42 RESIDUE           4 A     ASP     0 **** ASP A 109
+     5 TRP200     54 RESIDUE           4 A     TRP     0 **** TRP A 200
+     6 HIS201     78 RESIDUE           4 A     HIS     0 **** HIS A 201
+     7 GLY202     96 RESIDUE           4 A     GLY     0 **** GLY A 202
+     8 SER203    103 RESIDUE           4 A     SER     0 **** SER A 203
+     9 ARG204    114 RESIDUE           4 A     ARG     0 **** ARG A 204
+    10 ASN207    138 RESIDUE           4 A     ASN     0 **** ASN A 207
+    11 TYR228    152 RESIDUE           4 A     TYR     0 **** TYR A 228
+    12 TYR235    173 RESIDUE           4 A     TYR     0 **** TYR A 235
+    13 PHE236    194 RESIDUE           4 A     PHE     0 **** PHE A 236
+    14 ALA237    214 RESIDUE           4 A     ALA     0 **** ALA A 237
+    15 LYS242    224 RESIDUE           4 A     LYS     0 **** LYS A 242
+    16 SER243    246 RESIDUE           4 A     SER     0 **** SER A 243
+    17 ALA244    257 RESIDUE           4 A     ALA     0 **** ALA A 244
+    18 TYR246    267 RESIDUE           4 A     TYR     0 **** TYR A 246
+    19 HIS248    288 RESIDUE           4 A     HIS     0 **** HIS A 248
+    20 ILE258    305 RESIDUE           4 A     ILE     0 **** ILE A 258
+    21 ASN326    324 RESIDUE           4 A     ASN     0 **** ASN A 326
+    22 GLU327    338 RESIDUE           4 A     GLU     0 **** GLU A 327
+    23 TYR328    353 RESIDUE           4 A     TYR     0 **** TYR A 328
+    24 HOH358    374 RESIDUE           4 A     HOH     0 **** HOH A 358
+    25 HOH438    377 RESIDUE           4 A     HOH     0 **** HOH A 438

@@ -1,0 +1,32 @@
+FNT_1_site
+     1 GLN239      1 RESIDUE           4 A     GLN     0 **** GLN A 239
+     2 ASP254     18 RESIDUE           4 A     ASP     0 **** ASP A 254
+     3 LYS255     30 RESIDUE           4 A     LYS     0 **** LYS A 255
+     4 ILE256     52 RESIDUE           4 A     ILE     0 **** ILE A 256
+     5 MET299     71 RESIDUE           4 A     MET     0 **** MET A 299
+     6 ALA301     88 RESIDUE           4 A     ALA     0 **** ALA A 301
+     7 TYR303     98 RESIDUE           4 A     TYR     0 **** TYR A 303
+     8 TYR310    119 RESIDUE           4 A     TYR     0 **** TYR A 310
+     9 HIS313    140 RESIDUE           4 A     HIS     0 **** HIS A 313
+    10 VAL314    157 RESIDUE           4 A     VAL     0 **** VAL A 314
+    11 ASP315    173 RESIDUE           4 A     ASP     0 **** ASP A 315
+    12 ARG322    185 RESIDUE           4 A     ARG     0 **** ARG A 322
+    13 THR325    209 RESIDUE           4 A     THR     0 **** THR A 325
+    14 ILE327    223 RESIDUE           4 A     ILE     0 **** ILE A 327
+    15 TYR329    242 RESIDUE           4 A     TYR     0 **** TYR A 329
+    16 GLY341    263 RESIDUE           4 A     GLY     0 **** GLY A 341
+    17 ILE342    270 RESIDUE           4 A     ILE     0 **** ILE A 342
+    18 LEU343    289 RESIDUE           4 A     LEU     0 **** LEU A 343
+    19 ILE356    308 RESIDUE           4 A     ILE     0 **** ILE A 356
+    20 PRO358    327 RESIDUE           4 A     PRO     0 **** PRO A 358
+    21 LEU364    341 RESIDUE           4 A     LEU     0 **** LEU A 364
+    22 PHE366    360 RESIDUE           4 A     PHE     0 **** PHE A 366
+    23 HIS374    380 RESIDUE           4 A     HIS     0 **** HIS A 374
+    24 GLU375    397 RESIDUE           4 A     GLU     0 **** GLU A 375
+    25 VAL376    412 RESIDUE           4 A     VAL     0 **** VAL A 376
+    26 ARG383    428 RESIDUE           4 A     ARG     0 **** ARG A 383
+    27 ALA385    452 RESIDUE           4 A     ALA     0 **** ALA A 385
+    28 THR387    462 RESIDUE           4 A     THR     0 **** THR A 387
+    29 TRP389    476 RESIDUE           4 A     TRP     0 **** TRP A 389
+    30 FE2501    500 GROUP             4 A     FE2     0 **** FE2 A 501
+    31 HOH2156   501 RESIDUE           4 A     HOH     0 **** HOH A2156

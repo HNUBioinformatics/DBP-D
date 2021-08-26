@@ -1,0 +1,10 @@
+IMD_1_site
+     1 VAL147      1 RESIDUE           4 A     VAL     0 **** VAL A 147
+     2 LEU148     17 RESIDUE           4 A     LEU     0 **** LEU A 148
+     3 ASN149     36 RESIDUE           4 A     ASN     0 **** ASN A 149
+     4 ALA150     50 RESIDUE           4 A     ALA     0 **** ALA A 150
+     5 TYR152     60 RESIDUE           4 A     TYR     0 **** TYR A 152
+     6 TYR170     81 RESIDUE           4 A     TYR     0 **** TYR A 170
+     7 ILE255    102 RESIDUE           4 A     ILE     0 **** ILE A 255
+     8 TYR268    121 RESIDUE           4 A     TYR     0 **** TYR A 268
+     9 IMD304    142 GROUP             4 A     IMD     0 **** IMD A 304

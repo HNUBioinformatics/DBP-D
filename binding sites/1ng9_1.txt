@@ -1,0 +1,30 @@
+ADP_1_site
+     1 VAL588      1 RESIDUE           4 A     VAL     0 **** VAL A 588
+     2 LEU592     17 RESIDUE           4 A     LEU     0 **** LEU A 592
+     3 GLU594     36 RESIDUE           4 A     GLU     0 **** GLU A 594
+     4 PRO595     51 RESIDUE           4 A     PRO     0 **** PRO A 595
+     5 PHE596     65 RESIDUE           4 A     PHE     0 **** PHE A 596
+     6 ILE597     85 RESIDUE           4 A     ILE     0 **** ILE A 597
+     7 ALA598    104 RESIDUE           4 A     ALA     0 **** ALA A 598
+     8 ASN599    114 RESIDUE           4 A     ASN     0 **** ASN A 599
+     9 GLY614    128 RESIDUE           4 A     GLY     0 **** GLY A 614
+    10 PRO615    135 RESIDUE           4 A     PRO     0 **** PRO A 615
+    11 ASN616    149 RESIDUE           4 A     ASN     0 **** ASN A 616
+    12 MET617    163 RESIDUE           4 A     MET     0 **** MET A 617
+    13 GLY618    180 RESIDUE           4 A     GLY     0 **** GLY A 618
+    14 GLY619    187 RESIDUE           4 A     GLY     0 **** GLY A 619
+    15 LYS620    194 RESIDUE           4 A     LYS     0 **** LYS A 620
+    16 SER621    216 RESIDUE           4 A     SER     0 **** SER A 621
+    17 THR622    227 RESIDUE           4 A     THR     0 **** THR A 622
+    18 TYR623    241 RESIDUE           4 A     TYR     0 **** TYR A 623
+    19 ARG625    262 RESIDUE           4 A     ARG     0 **** ARG A 625
+    20 GLN626    286 RESIDUE           4 A     GLN     0 **** GLN A 626
+    21 ASP693    303 RESIDUE           4 A     ASP     0 **** ASP A 693
+    22 GLU694    315 RESIDUE           4 A     GLU     0 **** GLU A 694
+    23 ALA726    330 RESIDUE           4 A     ALA     0 **** ALA A 726
+    24 LEU747    340 RESIDUE           4 A     LEU     0 **** LEU A 747
+    25 MET759    359 RESIDUE           4 A     MET     0 **** MET A 759
+    26 HIS760    376 RESIDUE           4 A     HIS     0 **** HIS A 760
+    27 SER761    393 RESIDUE           4 A     SER     0 **** SER A 761
+    28 SER668    404 RESIDUE           4 B     SER     0 **** SER B 668
+    29 MG1001    415 GROUP             4 A      MG     0 ****  MG A1001

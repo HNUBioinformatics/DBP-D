@@ -1,0 +1,36 @@
+SFG_1_site
+     1 SER221      1 RESIDUE           4 A     SER     0 **** SER A 221
+     2 ILE223     12 RESIDUE           4 A     ILE     0 **** ILE A 223
+     3 SER224     31 RESIDUE           4 A     SER     0 **** SER A 224
+     4 SER225     42 RESIDUE           4 A     SER     0 **** SER A 225
+     5 ALA226     53 RESIDUE           4 A     ALA     0 **** ALA A 226
+     6 GLY227     63 RESIDUE           4 A     GLY     0 **** GLY A 227
+     7 GLU228     70 RESIDUE           4 A     GLU     0 **** GLU A 228
+     8 GLY229     85 RESIDUE           4 A     GLY     0 **** GLY A 229
+     9 TYR245     92 RESIDUE           4 A     TYR     0 **** TYR A 245
+    10 TRP260    113 RESIDUE           4 A     TRP     0 **** TRP A 260
+    11 ASN263    137 RESIDUE           4 A     ASN     0 **** ASN A 263
+    12 GLY264    151 RESIDUE           4 A     GLY     0 **** GLY A 264
+    13 ASN265    158 RESIDUE           4 A     ASN     0 **** ASN A 265
+    14 THR266    172 RESIDUE           4 A     THR     0 **** THR A 266
+    15 ASN282    186 RESIDUE           4 A     ASN     0 **** ASN A 282
+    16 HIS283    200 RESIDUE           4 A     HIS     0 **** HIS A 283
+    17 GLY292    217 RESIDUE           4 A     GLY     0 **** GLY A 292
+    18 HIS293    224 RESIDUE           4 A     HIS     0 **** HIS A 293
+    19 LYS294    241 RESIDUE           4 A     LYS     0 **** LYS A 294
+    20 ALA295    263 RESIDUE           4 A     ALA     0 **** ALA A 295
+    21 ASN296    273 RESIDUE           4 A     ASN     0 **** ASN A 296
+    22 HIS297    287 RESIDUE           4 A     HIS     0 **** HIS A 297
+    23 SER298    304 RESIDUE           4 A     SER     0 **** SER A 298
+    24 TYR305    315 RESIDUE           4 A     TYR     0 **** TYR A 305
+    25 TYR335    336 RESIDUE           4 A     TYR     0 **** TYR A 335
+    26 TYR337    357 RESIDUE           4 A     TYR     0 **** TYR A 337
+    27 PRO350    378 RESIDUE           4 A     PRO     0 **** PRO A 350
+    28 TRP352    392 RESIDUE           4 A     TRP     0 **** TRP A 352
+    29 TYR353    416 RESIDUE           4 A     TYR     0 **** TYR A 353
+    30 GLU356    437 RESIDUE           4 A     GLU     0 **** GLU A 356
+    31 HOH1503   452 RESIDUE           4 A     HOH     0 **** HOH A1503
+    32 HOH1508   455 RESIDUE           4 A     HOH     0 **** HOH A1508
+    33 HOH1514   458 RESIDUE           4 A     HOH     0 **** HOH A1514
+    34 HOH1560   461 RESIDUE           4 A     HOH     0 **** HOH A1560
+    35 HOH1568   464 RESIDUE           4 A     HOH     0 **** HOH A1568

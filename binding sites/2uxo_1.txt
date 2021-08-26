@@ -1,0 +1,34 @@
+TAC_1_site
+     1 LEU63       1 RESIDUE           4 B     LEU     0 **** LEU B  63
+     2 LEU66      10 RESIDUE           4 B     LEU     0 **** LEU B  66
+     3 HIS67      29 RESIDUE           4 B     HIS     0 **** HIS B  67
+     4 HIS70      46 RESIDUE           4 B     HIS     0 **** HIS B  70
+     5 ALA74      63 RESIDUE           4 B     ALA     0 **** ALA B  74
+     6 SER77      73 RESIDUE           4 B     SER     0 **** SER B  77
+     7 MET89      84 RESIDUE           4 B     MET     0 **** MET B  89
+     8 LEU92     101 RESIDUE           4 B     LEU     0 **** LEU B  92
+     9 LEU93     120 RESIDUE           4 B     LEU     0 **** LEU B  93
+    10 GLN95     139 RESIDUE           4 B     GLN     0 **** GLN B  95
+    11 VAL96     156 RESIDUE           4 B     VAL     0 **** VAL B  96
+    12 PHE97     172 RESIDUE           4 B     PHE     0 **** PHE B  97
+    13 GLU99     192 RESIDUE           4 B     GLU     0 **** GLU B  99
+    14 LEU100    207 RESIDUE           4 B     LEU     0 **** LEU B 100
+    15 THR106    226 RESIDUE           4 B     THR     0 **** THR B 106
+    16 ASN110    240 RESIDUE           4 B     ASN     0 **** ASN B 110
+    17 LEU113    254 RESIDUE           4 B     LEU     0 **** LEU B 113
+    18 HIS114    273 RESIDUE           4 B     HIS     0 **** HIS B 114
+    19 ARG130    290 RESIDUE           4 B     ARG     0 **** ARG B 130
+    20 ALA133    314 RESIDUE           4 B     ALA     0 **** ALA B 133
+    21 VAL134    324 RESIDUE           4 B     VAL     0 **** VAL B 134
+    22 CYS137    340 RESIDUE           4 B     CYS     0 **** CYS B 137
+    23 GLY140    351 RESIDUE           4 B     GLY     0 **** GLY B 140
+    24 ILE141    358 RESIDUE           4 B     ILE     0 **** ILE B 141
+    25 ALA144    377 RESIDUE           4 B     ALA     0 **** ALA B 144
+    26 ALA164    387 RESIDUE           4 B     ALA     0 **** ALA B 164
+    27 MET167    397 RESIDUE           4 B     MET     0 **** MET B 167
+    28 PHE168    414 RESIDUE           4 B     PHE     0 **** PHE B 168
+    29 ALA169    434 RESIDUE           4 B     ALA     0 **** ALA B 169
+    30 VAL171    444 RESIDUE           4 B     VAL     0 **** VAL B 171
+    31 ASP172    460 RESIDUE           4 B     ASP     0 **** ASP B 172
+    32 ILE175    472 RESIDUE           4 B     ILE     0 **** ILE B 175
+    33 HOH2042   491 RESIDUE           4 B     HOH     0 **** HOH B2042

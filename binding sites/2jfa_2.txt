@@ -1,0 +1,35 @@
+RAL_2_site
+     1 MET342      1 RESIDUE           4 B     MET     0 **** MET B 342
+     2 MET343     18 RESIDUE           4 B     MET     0 **** MET B 343
+     3 LEU346     35 RESIDUE           4 B     LEU     0 **** LEU B 346
+     4 THR347     54 RESIDUE           4 B     THR     0 **** THR B 347
+     5 ASN348     68 RESIDUE           4 B     ASN     0 **** ASN B 348
+     6 LEU349     82 RESIDUE           4 B     LEU     0 **** LEU B 349
+     7 ALA350    101 RESIDUE           4 B     ALA     0 **** ALA B 350
+     8 ASP351    111 RESIDUE           4 B     ASP     0 **** ASP B 351
+     9 GLU353    123 RESIDUE           4 B     GLU     0 **** GLU B 353
+    10 LEU354    138 RESIDUE           4 B     LEU     0 **** LEU B 354
+    11 TRP383    157 RESIDUE           4 B     TRP     0 **** TRP B 383
+    12 LEU384    181 RESIDUE           4 B     LEU     0 **** LEU B 384
+    13 ILE386    200 RESIDUE           4 B     ILE     0 **** ILE B 386
+    14 LEU387    219 RESIDUE           4 B     LEU     0 **** LEU B 387
+    15 MET388    238 RESIDUE           4 B     MET     0 **** MET B 388
+    16 GLY390    255 RESIDUE           4 B     GLY     0 **** GLY B 390
+    17 LEU391    262 RESIDUE           4 B     LEU     0 **** LEU B 391
+    18 ARG394    281 RESIDUE           4 B     ARG     0 **** ARG B 394
+    19 LEU403    305 RESIDUE           4 B     LEU     0 **** LEU B 403
+    20 PHE404    324 RESIDUE           4 B     PHE     0 **** PHE B 404
+    21 GLY420    344 RESIDUE           4 B     GLY     0 **** GLY B 420
+    22 MET421    351 RESIDUE           4 B     MET     0 **** MET B 421
+    23 ILE424    368 RESIDUE           4 B     ILE     0 **** ILE B 424
+    24 PHE425    387 RESIDUE           4 B     PHE     0 **** PHE B 425
+    25 LEU428    407 RESIDUE           4 B     LEU     0 **** LEU B 428
+    26 MET517    426 RESIDUE           4 B     MET     0 **** MET B 517
+    27 LYS520    443 RESIDUE           4 B     LYS     0 **** LYS B 520
+    28 GLY521    465 RESIDUE           4 B     GLY     0 **** GLY B 521
+    29 MET522    472 RESIDUE           4 B     MET     0 **** MET B 522
+    30 HIS524    489 RESIDUE           4 B     HIS     0 **** HIS B 524
+    31 LEU525    506 RESIDUE           4 B     LEU     0 **** LEU B 525
+    32 MET528    525 RESIDUE           4 B     MET     0 **** MET B 528
+    33 HOH2004   542 RESIDUE           4 B     HOH     0 **** HOH B2004
+    34 HOH2012   545 RESIDUE           4 B     HOH     0 **** HOH B2012

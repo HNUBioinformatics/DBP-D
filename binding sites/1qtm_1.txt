@@ -1,0 +1,34 @@
+TTP_1_site
+     1 DC111       1 GROUP             4 B      DC     0 ****  DC B 111
+     2 2DT112     31 GROUP             4 B     2DT     0 **** 2DT B 112
+     3 DA204      63 GROUP             4 C      DA     0 ****  DA C 204
+     4 DA205      95 GROUP             4 C      DA     0 ****  DA C 205
+     5 ARG573    127 RESIDUE           4 A     ARG     0 **** ARG A 573
+     6 ASP610    151 RESIDUE           4 A     ASP     0 **** ASP A 610
+     7 TYR611    163 RESIDUE           4 A     TYR     0 **** TYR A 611
+     8 SER612    184 RESIDUE           4 A     SER     0 **** SER A 612
+     9 GLN613    195 RESIDUE           4 A     GLN     0 **** GLN A 613
+    10 ILE614    212 RESIDUE           4 A     ILE     0 **** ILE A 614
+    11 GLU615    231 RESIDUE           4 A     GLU     0 **** GLU A 615
+    12 LEU616    246 RESIDUE           4 A     LEU     0 **** LEU A 616
+    13 ASP637    265 RESIDUE           4 A     ASP     0 **** ASP A 637
+    14 HIS639    277 RESIDUE           4 A     HIS     0 **** HIS A 639
+    15 ARG659    294 RESIDUE           4 A     ARG     0 **** ARG A 659
+    16 ARG660    318 RESIDUE           4 A     ARG     0 **** ARG A 660
+    17 LYS663    342 RESIDUE           4 A     LYS     0 **** LYS A 663
+    18 THR664    364 RESIDUE           4 A     THR     0 **** THR A 664
+    19 PHE667    378 RESIDUE           4 A     PHE     0 **** PHE A 667
+    20 GLY668    398 RESIDUE           4 A     GLY     0 **** GLY A 668
+    21 TYR671    405 RESIDUE           4 A     TYR     0 **** TYR A 671
+    22 ASN750    426 RESIDUE           4 A     ASN     0 **** ASN A 750
+    23 GLN754    440 RESIDUE           4 A     GLN     0 **** GLN A 754
+    24 ALA757    457 RESIDUE           4 A     ALA     0 **** ALA A 757
+    25 VAL783    467 RESIDUE           4 A     VAL     0 **** VAL A 783
+    26 HIS784    483 RESIDUE           4 A     HIS     0 **** HIS A 784
+    27 ASP785    501 RESIDUE           4 A     ASP     0 **** ASP A 785
+    28 GLU786    513 RESIDUE           4 A     GLU     0 **** GLU A 786
+    29 GLU820    528 RESIDUE           4 A     GLU     0 **** GLU A 820
+    30 LYS831    543 RESIDUE           4 A     LYS     0 **** LYS A 831
+    31 MG1001    565 GROUP             4 A      MG     0 ****  MG A1001
+    32 MG1002    566 GROUP             4 A      MG     0 ****  MG A1002
+    33 HOH3043   567 RESIDUE           4 A     HOH     0 **** HOH A3043

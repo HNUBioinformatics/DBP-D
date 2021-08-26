@@ -1,0 +1,25 @@
+3GN_1_site
+     1 GLN98       1 RESIDUE           4 A     GLN     0 **** GLN A  98
+     2 GLU102     18 RESIDUE           4 A     GLU     0 **** GLU A 102
+     3 TRP200     33 RESIDUE           4 A     TRP     0 **** TRP A 200
+     4 HIS201     57 RESIDUE           4 A     HIS     0 **** HIS A 201
+     5 GLY202     74 RESIDUE           4 A     GLY     0 **** GLY A 202
+     6 SER203     81 RESIDUE           4 A     SER     0 **** SER A 203
+     7 GLY227     92 RESIDUE           4 A     GLY     0 **** GLY A 227
+     8 TYR228     99 RESIDUE           4 A     TYR     0 **** TYR A 228
+     9 MET229    120 RESIDUE           4 A     MET     0 **** MET A 229
+    10 GLY233    137 RESIDUE           4 A     GLY     0 **** GLY A 233
+    11 TYR235    144 RESIDUE           4 A     TYR     0 **** TYR A 235
+    12 PHE236    165 RESIDUE           4 A     PHE     0 **** PHE A 236
+    13 ALA237    185 RESIDUE           4 A     ALA     0 **** ALA A 237
+    14 LYS242    195 RESIDUE           4 A     LYS     0 **** LYS A 242
+    15 SER243    217 RESIDUE           4 A     SER     0 **** SER A 243
+    16 ALA244    228 RESIDUE           4 A     ALA     0 **** ALA A 244
+    17 TYR246    238 RESIDUE           4 A     TYR     0 **** TYR A 246
+    18 HIS248    259 RESIDUE           4 A     HIS     0 **** HIS A 248
+    19 ILE258    276 RESIDUE           4 A     ILE     0 **** ILE A 258
+    20 ASN326    295 RESIDUE           4 A     ASN     0 **** ASN A 326
+    21 GLU327    309 RESIDUE           4 A     GLU     0 **** GLU A 327
+    22 TYR328    324 RESIDUE           4 A     TYR     0 **** TYR A 328
+    23 ILE329    345 RESIDUE           4 A     ILE     0 **** ILE A 329
+    24 HOH360    364 RESIDUE           4 A     HOH     0 **** HOH A 360

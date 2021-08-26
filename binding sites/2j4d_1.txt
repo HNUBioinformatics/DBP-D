@@ -1,0 +1,24 @@
+MHF_1_site
+     1 HIS83       1 RESIDUE           4 A     HIS     0 **** HIS A  83
+     2 PHE84      18 RESIDUE           4 A     PHE     0 **** PHE A  84
+     3 LYS89      38 RESIDUE           4 A     LYS     0 **** LYS A  89
+     4 CYS146     60 RESIDUE           4 A     CYS     0 **** CYS A 146
+     5 SER147     71 RESIDUE           4 A     SER     0 **** SER A 147
+     6 GLU148     82 RESIDUE           4 A     GLU     0 **** GLU A 148
+     7 GLU149     97 RESIDUE           4 A     GLU     0 **** GLU A 149
+     8 ASN341    112 RESIDUE           4 A     ASN     0 **** ASN A 341
+     9 SER342    126 RESIDUE           4 A     SER     0 **** SER A 342
+    10 PHE344    137 RESIDUE           4 A     PHE     0 **** PHE A 344
+    11 HIS345    157 RESIDUE           4 A     HIS     0 **** HIS A 345
+    12 GLU414    174 RESIDUE           4 A     GLU     0 **** GLU A 414
+    13 GLU417    189 RESIDUE           4 A     GLU     0 **** GLU A 417
+    14 TYR423    204 RESIDUE           4 A     TYR     0 **** TYR A 423
+    15 ASP424    225 RESIDUE           4 A     ASP     0 **** ASP A 424
+    16 PRO425    237 RESIDUE           4 A     PRO     0 **** PRO A 425
+    17 TYR429    251 RESIDUE           4 A     TYR     0 **** TYR A 429
+    18 PHE188    272 RESIDUE           4 B     PHE     0 **** PHE B 188
+    19 ASP189    292 RESIDUE           4 B     ASP     0 **** ASP B 189
+    20 LEU190    304 RESIDUE           4 B     LEU     0 **** LEU B 190
+    21 PRO191    323 RESIDUE           4 B     PRO     0 **** PRO B 191
+    22 ASP192    337 RESIDUE           4 B     ASP     0 **** ASP B 192
+    23 LYS338    349 RESIDUE           4 B     LYS     0 **** LYS B 338

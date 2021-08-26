@@ -1,0 +1,31 @@
+DXT_1_site
+     1 LEU60       1 RESIDUE           4 A     LEU     0 **** LEU A  60
+     2 HIS64      20 RESIDUE           4 A     HIS     0 **** HIS A  64
+     3 TYR66      37 RESIDUE           4 A     TYR     0 **** TYR A  66
+     4 SER67      58 RESIDUE           4 A     SER     0 **** SER A  67
+     5 LEU68      69 RESIDUE           4 A     LEU     0 **** LEU A  68
+     6 PHE78      88 RESIDUE           4 A     PHE     0 **** PHE A  78
+     7 LEU79     108 RESIDUE           4 A     LEU     0 **** LEU A  79
+     8 ASN82     127 RESIDUE           4 A     ASN     0 **** ASN A  82
+     9 ALA83     141 RESIDUE           4 A     ALA     0 **** ALA A  83
+    10 PHE86     151 RESIDUE           4 A     PHE     0 **** PHE A  86
+    11 HIS100    171 RESIDUE           4 A     HIS     0 **** HIS A 100
+    12 ALA103    188 RESIDUE           4 A     ALA     0 **** ALA A 103
+    13 ARG104    198 RESIDUE           4 A     ARG     0 **** ARG A 104
+    14 PRO105    222 RESIDUE           4 A     PRO     0 **** PRO A 105
+    15 GLN109    236 RESIDUE           4 A     GLN     0 **** GLN A 109
+    16 THR112    253 RESIDUE           4 A     THR     0 **** THR A 112
+    17 VAL113    267 RESIDUE           4 A     VAL     0 **** VAL A 113
+    18 GLU114    283 RESIDUE           4 A     GLU     0 **** GLU A 114
+    19 GLN116    298 RESIDUE           4 A     GLN     0 **** GLN A 116
+    20 LEU117    315 RESIDUE           4 A     LEU     0 **** LEU A 117
+    21 LEU131    334 RESIDUE           4 A     LEU     0 **** LEU A 131
+    22 ALA133    353 RESIDUE           4 A     ALA     0 **** ALA A 133
+    23 ILE134    363 RESIDUE           4 A     ILE     0 **** ILE A 134
+    24 SER135    382 RESIDUE           4 A     SER     0 **** SER A 135
+    25 VAL137    393 RESIDUE           4 A     VAL     0 **** VAL A 137
+    26 SER138    409 RESIDUE           4 A     SER     0 **** SER A 138
+    27 HIS139    420 RESIDUE           4 A     HIS     0 **** HIS A 139
+    28 THR141    437 RESIDUE           4 A     THR     0 **** THR A 141
+    29 LEU142    451 RESIDUE           4 A     LEU     0 **** LEU A 142
+    30 MG1212    470 GROUP             4 A      MG     0 ****  MG A1212

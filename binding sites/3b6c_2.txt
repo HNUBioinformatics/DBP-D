@@ -1,0 +1,27 @@
+SDN_2_site
+     1 ASP84       1 RESIDUE           4 A     ASP     0 **** ASP A  84
+     2 LEU87      13 RESIDUE           4 A     LEU     0 **** LEU A  87
+     3 THR88      32 RESIDUE           4 A     THR     0 **** THR A  88
+     4 GLU89      46 RESIDUE           4 A     GLU     0 **** GLU A  89
+     5 VAL90      61 RESIDUE           4 A     VAL     0 **** VAL A  90
+     6 GLU91      77 RESIDUE           4 A     GLU     0 **** GLU A  91
+     7 VAL92      92 RESIDUE           4 A     VAL     0 **** VAL A  92
+     8 MET107    108 RESIDUE           4 A     MET     0 **** MET A 107
+     9 CYS108    125 RESIDUE           4 A     CYS     0 **** CYS A 108
+    10 SER110    136 RESIDUE           4 A     SER     0 **** SER A 110
+    11 LEU111    147 RESIDUE           4 A     LEU     0 **** LEU A 111
+    12 PRO130    166 RESIDUE           4 A     PRO     0 **** PRO A 130
+    13 GLY132    180 RESIDUE           4 A     GLY     0 **** GLY A 132
+    14 PRO133    187 RESIDUE           4 A     PRO     0 **** PRO A 133
+    15 ASN134    201 RESIDUE           4 A     ASN     0 **** ASN A 134
+    16 GLY135    215 RESIDUE           4 A     GLY     0 **** GLY A 135
+    17 MET136    222 RESIDUE           4 A     MET     0 **** MET A 136
+    18 VAL137    239 RESIDUE           4 A     VAL     0 **** VAL A 137
+    19 GLY138    255 RESIDUE           4 A     GLY     0 **** GLY A 138
+    20 MET139    262 RESIDUE           4 A     MET     0 **** MET A 139
+    21 ARG141    279 RESIDUE           4 A     ARG     0 **** ARG A 141
+    22 THR142    303 RESIDUE           4 A     THR     0 **** THR A 142
+    23 GLY160    317 RESIDUE           4 A     GLY     0 **** GLY A 160
+    24 SER164    324 RESIDUE           4 A     SER     0 **** SER A 164
+    25 VAL167    335 RESIDUE           4 A     VAL     0 **** VAL A 167
+    26 SDN301    351 GROUP             4 A     SDN     0 **** SDN A 301

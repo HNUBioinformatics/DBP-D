@@ -1,0 +1,36 @@
+GDP_4_site
+     1 ASP125      1 RESIDUE           4 C     ASP     0 **** ASP C 125
+     2 LYS126     13 RESIDUE           4 C     LYS     0 **** LYS C 126
+     3 GLY127     35 RESIDUE           4 C     GLY     0 **** GLY C 127
+     4 TYR128     42 RESIDUE           4 C     TYR     0 **** TYR C 128
+     5 ALA130     63 RESIDUE           4 C     ALA     0 **** ALA C 130
+     6 GLY13      73 RESIDUE           4 D     GLY     0 **** GLY D  13
+     7 ASP14      80 RESIDUE           4 D     ASP     0 **** ASP D  14
+     8 GLY15      92 RESIDUE           4 D     GLY     0 **** GLY D  15
+     9 ALA16      99 RESIDUE           4 D     ALA     0 **** ALA D  16
+    10 VAL17     109 RESIDUE           4 D     VAL     0 **** VAL D  17
+    11 GLY18     125 RESIDUE           4 D     GLY     0 **** GLY D  18
+    12 LYS19     132 RESIDUE           4 D     LYS     0 **** LYS D  19
+    13 THR20     154 RESIDUE           4 D     THR     0 **** THR D  20
+    14 CYS21     168 RESIDUE           4 D     CYS     0 **** CYS D  21
+    15 MET22     179 RESIDUE           4 D     MET     0 **** MET D  22
+    16 PHE31     196 RESIDUE           4 D     PHE     0 **** PHE D  31
+    17 PRO32     216 RESIDUE           4 D     PRO     0 **** PRO D  32
+    18 ILE36     230 RESIDUE           4 D     ILE     0 **** ILE D  36
+    19 PRO37     249 RESIDUE           4 D     PRO     0 **** PRO D  37
+    20 THR38     263 RESIDUE           4 D     THR     0 **** THR D  38
+    21 VAL39     277 RESIDUE           4 D     VAL     0 **** VAL D  39
+    22 ASP60     293 RESIDUE           4 D     ASP     0 **** ASP D  60
+    23 THR61     305 RESIDUE           4 D     THR     0 **** THR D  61
+    24 THR118    319 RESIDUE           4 D     THR     0 **** THR D 118
+    25 LYS119    333 RESIDUE           4 D     LYS     0 **** LYS D 119
+    26 LEU120    355 RESIDUE           4 D     LEU     0 **** LEU D 120
+    27 ASP121    374 RESIDUE           4 D     ASP     0 **** ASP D 121
+    28 LEU122    386 RESIDUE           4 D     LEU     0 **** LEU D 122
+    29 CYS156    405 RESIDUE           4 D     CYS     0 **** CYS D 156
+    30 SER157    416 RESIDUE           4 D     SER     0 **** SER D 157
+    31 SER158    427 RESIDUE           4 D     SER     0 **** SER D 158
+    32 LYS159    438 RESIDUE           4 D     LYS     0 **** LYS D 159
+    33 THR160    460 RESIDUE           4 D     THR     0 **** THR D 160
+    34 MG1181    474 GROUP             4 D      MG     0 ****  MG D1181
+    35 HOH2018   475 RESIDUE           4 D     HOH     0 **** HOH D2018

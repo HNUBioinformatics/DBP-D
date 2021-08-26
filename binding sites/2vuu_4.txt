@@ -1,0 +1,47 @@
+NAP_4_site
+     1 ASN12       1 RESIDUE           4 D     ASN     0 **** ASN D  12
+     2 ALA13      15 RESIDUE           4 D     ALA     0 **** ALA D  13
+     3 THR14      25 RESIDUE           4 D     THR     0 **** THR D  14
+     4 GLY15      39 RESIDUE           4 D     GLY     0 **** GLY D  15
+     5 ARG16      46 RESIDUE           4 D     ARG     0 **** ARG D  16
+     6 GLN17      70 RESIDUE           4 D     GLN     0 **** GLN D  17
+     7 ALA18      87 RESIDUE           4 D     ALA     0 **** ALA D  18
+     8 ALA19      97 RESIDUE           4 D     ALA     0 **** ALA D  19
+     9 GLN35     107 RESIDUE           4 D     GLN     0 **** GLN D  35
+    10 VAL36     124 RESIDUE           4 D     VAL     0 **** VAL D  36
+    11 HIS37     140 RESIDUE           4 D     HIS     0 **** HIS D  37
+    12 SER38     157 RESIDUE           4 D     SER     0 **** SER D  38
+    13 LYS40     168 RESIDUE           4 D     LYS     0 **** LYS D  40
+    14 GLY41     190 RESIDUE           4 D     GLY     0 **** GLY D  41
+    15 ILE43     197 RESIDUE           4 D     ILE     0 **** ILE D  43
+    16 ALA44     216 RESIDUE           4 D     ALA     0 **** ALA D  44
+    17 PRO59     226 RESIDUE           4 D     PRO     0 **** PRO D  59
+    18 ASN80     240 RESIDUE           4 D     ASN     0 **** ASN D  80
+    19 THR81     254 RESIDUE           4 D     THR     0 **** THR D  81
+    20 THR82     268 RESIDUE           4 D     THR     0 **** THR D  82
+    21 SER83     282 RESIDUE           4 D     SER     0 **** SER D  83
+    22 GLN84     293 RESIDUE           4 D     GLN     0 **** GLN D  84
+    23 ALA85     310 RESIDUE           4 D     ALA     0 **** ALA D  85
+    24 GLY86     320 RESIDUE           4 D     GLY     0 **** GLY D  86
+    25 GLU88     327 RESIDUE           4 D     GLU     0 **** GLU D  88
+    26 SER111    342 RESIDUE           4 D     SER     0 **** SER D 111
+    27 SER112    353 RESIDUE           4 D     SER     0 **** SER D 112
+    28 MET113    364 RESIDUE           4 D     MET     0 **** MET D 113
+    29 MET127    381 RESIDUE           4 D     MET     0 **** MET D 127
+    30 TRP128    398 RESIDUE           4 D     TRP     0 **** TRP D 128
+    31 LYS131    422 RESIDUE           4 D     LYS     0 **** LYS D 131
+    32 TYR149    444 RESIDUE           4 D     TYR     0 **** TYR D 149
+    33 ALA150    465 RESIDUE           4 D     ALA     0 **** ALA D 150
+    34 GLY151    475 RESIDUE           4 D     GLY     0 **** GLY D 151
+    35 ILE152    482 RESIDUE           4 D     ILE     0 **** ILE D 152
+    36 TYR153    501 RESIDUE           4 D     TYR     0 **** TYR D 153
+    37 ASN154    522 RESIDUE           4 D     ASN     0 **** ASN D 154
+    38 ASN155    536 RESIDUE           4 D     ASN     0 **** ASN D 155
+    39 ASN156    550 RESIDUE           4 D     ASN     0 **** ASN D 156
+    40 PHE165    564 RESIDUE           4 D     PHE     0 **** PHE D 165
+    41 LEU190    584 RESIDUE           4 D     LEU     0 **** LEU D 190
+    42 ALA192    603 RESIDUE           4 D     ALA     0 **** ALA D 192
+    43 GLN261    613 RESIDUE           4 D     GLN     0 **** GLN D 261
+    44 TYR276    630 RESIDUE           4 D     TYR     0 **** TYR D 276
+    45 HOH2006   651 RESIDUE           4 D     HOH     0 **** HOH D2006
+    46 HOH2015   654 RESIDUE           4 D     HOH     0 **** HOH D2015

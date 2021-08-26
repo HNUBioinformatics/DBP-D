@@ -1,0 +1,20 @@
+73B_1_site
+     1 TRP81       1 RESIDUE           4 A     TRP     0 **** TRP A  81
+     2 PRO82      25 RESIDUE           4 A     PRO     0 **** PRO A  82
+     3 PHE83      39 RESIDUE           4 A     PHE     0 **** PHE A  83
+     4 GLN85      59 RESIDUE           4 A     GLN     0 **** GLN A  85
+     5 PRO86      76 RESIDUE           4 A     PRO     0 **** PRO A  86
+     6 VAL87      90 RESIDUE           4 A     VAL     0 **** VAL A  87
+     7 ASP88     106 RESIDUE           4 A     ASP     0 **** ASP A  88
+     8 LYS91     118 RESIDUE           4 A     LYS     0 **** LYS A  91
+     9 LEU92     140 RESIDUE           4 A     LEU     0 **** LEU A  92
+    10 LEU94     159 RESIDUE           4 A     LEU     0 **** LEU A  94
+    11 TYR97     178 RESIDUE           4 A     TYR     0 **** TYR A  97
+    12 ASN135    199 RESIDUE           4 A     ASN     0 **** ASN A 135
+    13 CYS136    213 RESIDUE           4 A     CYS     0 **** CYS A 136
+    14 TYR139    224 RESIDUE           4 A     TYR     0 **** TYR A 139
+    15 ASN140    245 RESIDUE           4 A     ASN     0 **** ASN A 140
+    16 ASP145    259 RESIDUE           4 A     ASP     0 **** ASP A 145
+    17 ILE146    271 RESIDUE           4 A     ILE     0 **** ILE A 146
+    18 MET149    290 RESIDUE           4 A     MET     0 **** MET A 149
+    19 HOH2173   307 RESIDUE           4 A     HOH     0 **** HOH A2173

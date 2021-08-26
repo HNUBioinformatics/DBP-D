@@ -1,0 +1,32 @@
+ADP_2_site
+     1 GLN30       1 RESIDUE           4 B     GLN     0 **** GLN B  30
+     2 GLU41      18 RESIDUE           4 B     GLU     0 **** GLU B  41
+     3 LEU42      33 RESIDUE           4 B     LEU     0 **** LEU B  42
+     4 ASN45      52 RESIDUE           4 B     ASN     0 **** ASN B  45
+     5 SER46      66 RESIDUE           4 B     SER     0 **** SER B  46
+     6 LEU47      77 RESIDUE           4 B     LEU     0 **** LEU B  47
+     7 ASP48      96 RESIDUE           4 B     ASP     0 **** ASP B  48
+     8 ALA49     108 RESIDUE           4 B     ALA     0 **** ALA B  49
+     9 VAL68     118 RESIDUE           4 B     VAL     0 **** VAL B  68
+    10 ASP70     134 RESIDUE           4 B     ASP     0 **** ASP B  70
+    11 GLY72     146 RESIDUE           4 B     GLY     0 **** GLY B  72
+    12 CYS73     153 RESIDUE           4 B     CYS     0 **** CYS B  73
+    13 GLY74     164 RESIDUE           4 B     GLY     0 **** GLY B  74
+    14 VAL75     171 RESIDUE           4 B     VAL     0 **** VAL B  75
+    15 ASN79     187 RESIDUE           4 B     ASN     0 **** ASN B  79
+    16 GLY82     201 RESIDUE           4 B     GLY     0 **** GLY B  82
+    17 LEU83     208 RESIDUE           4 B     LEU     0 **** LEU B  83
+    18 THR84     227 RESIDUE           4 B     THR     0 **** THR B  84
+    19 LEU85     241 RESIDUE           4 B     LEU     0 **** LEU B  85
+    20 GLU109    260 RESIDUE           4 B     GLU     0 **** GLU B 109
+    21 ALA110    276 RESIDUE           4 B     ALA     0 **** ALA B 110
+    22 LEU111    286 RESIDUE           4 B     LEU     0 **** LEU B 111
+    23 SER112    305 RESIDUE           4 B     SER     0 **** SER B 112
+    24 ILE122    316 RESIDUE           4 B     ILE     0 **** ILE B 122
+    25 THR124    335 RESIDUE           4 B     THR     0 **** THR B 124
+    26 GLY154    349 RESIDUE           4 B     GLY     0 **** GLY B 154
+    27 THR155    356 RESIDUE           4 B     THR     0 **** THR B 155
+    28 THR156    370 RESIDUE           4 B     THR     0 **** THR B 156
+    29 VAL157    384 RESIDUE           4 B     VAL     0 **** VAL B 157
+    30 MG1365    400 GROUP             4 B      MG     0 ****  MG B1365
+    31 HOH2025   401 RESIDUE           4 B     HOH     0 **** HOH B2025

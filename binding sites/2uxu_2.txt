@@ -1,0 +1,30 @@
+NAR_2_site
+     1 LEU66       1 RESIDUE           4 B     LEU     0 **** LEU B  66
+     2 HIS67      20 RESIDUE           4 B     HIS     0 **** HIS B  67
+     3 HIS70      37 RESIDUE           4 B     HIS     0 **** HIS B  70
+     4 ALA74      54 RESIDUE           4 B     ALA     0 **** ALA B  74
+     5 SER77      64 RESIDUE           4 B     SER     0 **** SER B  77
+     6 GLU78      75 RESIDUE           4 B     GLU     0 **** GLU B  78
+     7 MET89      90 RESIDUE           4 B     MET     0 **** MET B  89
+     8 LEU92     107 RESIDUE           4 B     LEU     0 **** LEU B  92
+     9 LEU93     126 RESIDUE           4 B     LEU     0 **** LEU B  93
+    10 VAL96     145 RESIDUE           4 B     VAL     0 **** VAL B  96
+    11 GLU99     161 RESIDUE           4 B     GLU     0 **** GLU B  99
+    12 LEU100    176 RESIDUE           4 B     LEU     0 **** LEU B 100
+    13 THR106    195 RESIDUE           4 B     THR     0 **** THR B 106
+    14 ILE109    209 RESIDUE           4 B     ILE     0 **** ILE B 109
+    15 ASN110    228 RESIDUE           4 B     ASN     0 **** ASN B 110
+    16 HIS114    242 RESIDUE           4 B     HIS     0 **** HIS B 114
+    17 CYS137    259 RESIDUE           4 B     CYS     0 **** CYS B 137
+    18 GLY140    270 RESIDUE           4 B     GLY     0 **** GLY B 140
+    19 ILE141    277 RESIDUE           4 B     ILE     0 **** ILE B 141
+    20 ALA144    296 RESIDUE           4 B     ALA     0 **** ALA B 144
+    21 ALA164    306 RESIDUE           4 B     ALA     0 **** ALA B 164
+    22 MET167    316 RESIDUE           4 B     MET     0 **** MET B 167
+    23 PHE168    333 RESIDUE           4 B     PHE     0 **** PHE B 168
+    24 ALA169    353 RESIDUE           4 B     ALA     0 **** ALA B 169
+    25 TYR170    363 RESIDUE           4 B     TYR     0 **** TYR B 170
+    26 VAL171    384 RESIDUE           4 B     VAL     0 **** VAL B 171
+    27 ASP172    400 RESIDUE           4 B     ASP     0 **** ASP B 172
+    28 ILE175    412 RESIDUE           4 B     ILE     0 **** ILE B 175
+    29 HOH2028   431 RESIDUE           4 B     HOH     0 **** HOH B2028

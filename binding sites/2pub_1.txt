@@ -1,0 +1,23 @@
+ADE_1_site
+     1 THR67       1 RESIDUE           4 A     THR     0 **** THR A  67
+     2 ALA71      15 RESIDUE           4 A     ALA     0 **** ALA A  71
+     3 ALA72      25 RESIDUE           4 A     ALA     0 **** ALA A  72
+     4 TYR73      35 RESIDUE           4 A     TYR     0 **** TYR A  73
+     5 PHE74      56 RESIDUE           4 A     PHE     0 **** PHE A  74
+     6 SER124     76 RESIDUE           4 A     SER     0 **** SER A 124
+     7 PRO187     87 RESIDUE           4 A     PRO     0 **** PRO A 187
+     8 ALA190    101 RESIDUE           4 A     ALA     0 **** ALA A 190
+     9 THR192    111 RESIDUE           4 A     THR     0 **** THR A 192
+    10 GLY193    125 RESIDUE           4 A     GLY     0 **** GLY A 193
+    11 ARG196    132 RESIDUE           4 A     ARG     0 **** ARG A 196
+    12 ASP220    156 RESIDUE           4 A     ASP     0 **** ASP A 220
+    13 PHE221    168 RESIDUE           4 A     PHE     0 **** PHE A 221
+    14 GLU222    188 RESIDUE           4 A     GLU     0 **** GLU A 222
+    15 GLY246    203 RESIDUE           4 A     GLY     0 **** GLY A 246
+    16 GLY247    210 RESIDUE           4 A     GLY     0 **** GLY A 247
+    17 ASP248    217 RESIDUE           4 A     ASP     0 **** ASP A 248
+    18 ILE249    229 RESIDUE           4 A     ILE     0 **** ILE A 249
+    19 TYR274    248 RESIDUE           4 A     TYR     0 **** TYR A 274
+    20 ASP275    269 RESIDUE           4 A     ASP     0 **** ASP A 275
+    21 GLN292    281 RESIDUE           4 A     GLN     0 **** GLN A 292
+    22 HOH770    298 RESIDUE           4 A     HOH     0 **** HOH A 770
